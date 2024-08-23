@@ -1,0 +1,6 @@
+@hccapiv2_HostAddress = http://localhost:5131
+
+GET {{hccapiv2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
